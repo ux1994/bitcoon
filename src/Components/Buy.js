@@ -13,7 +13,7 @@ function Buy(){
                             <p className="main-paragraph">
                                 Please note that, outside of CoonSwap, exchanges which support one may not support the other. COON is a decentralized experiment and, as such, we always incentivize the use of decentralized exchanges. If you choose to utilize a centralized exchange instead,
                                 remember to research it first to ensure it is both safe and secure.</p>
-                            <a href="#" className="blue-btn mt-20">Buy Coon</a>
+                            <a href="/" className="blue-btn mt-20">Buy Coon</a>
                         </div>
                         <div className="col-lg-6 col-md-6 order-md-1 order-sm-1 order-1 text-center">
                             <img src="images/cat.png" className="cat_img" alt="Bitcoon" /> </div>

@@ -20,7 +20,7 @@ function CoonSwap(){
 
                                     </div>
                                     <div className="col-lg-7 col-8 text-end">
-                                        <a href="#" className="banner-btn"><span><img src="images/eye.png" alt="Bitcoon" className="eye" /></span> Audit Report</a>
+                                        <a href="/" className="banner-btn"><span><img src="images/eye.png" alt="Bitcoon" className="eye" /></span> Audit Report</a>
                                     </div>
                                 </div>
                             </div>

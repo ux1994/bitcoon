@@ -27,7 +27,7 @@ function Coon() {
                                     is a mintable and burnable token with infinite supply, which primarily benefits circulating supply, market cap, and value to investors long term. COON can be bought, sold, traded, and invested in the CoonSwap, our proprietary
                                     decentralized hub.</p>
 
-                                <a href="#" className="blue-btn mt-3">Buy Coon</a>
+                                <a href="/" className="blue-btn mt-3">Buy Coon</a>
 
                             </div>
                         </div>

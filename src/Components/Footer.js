@@ -10,31 +10,31 @@ function Footer(){
 
                     <div className="row mt-5 justify-content-center">
                         <div className="col-2 social">
-                            <a href="#">
+                            <a href="https://telegram.org/">
                                 <img src="images/telegram.png" alt="Bitcoon" />
                                 <p>Telegram</p>
                             </a>
                         </div>
                         <div className="col-2 social">
-                            <a href="#">
+                            <a href="https://twitter.com/">
                                 <img src="images/twitter.png" alt="Bitcoon" />
                                 <p>Twitter</p>
                             </a>
                         </div>
                         <div className="col-2 social">
-                            <a href="#">
+                            <a href="https://www.reddit.com/">
                                 <img src="images/reddit.png" alt="Bitcoon" />
                                 <p>Reddit</p>
                             </a>
                         </div>
                         <div className="col-2 social">
-                            <a href="#">
+                            <a href="https://discord.com/">
                                 <img src="images/scoial.png" alt="Bitcoon" />
                                 <p>Discord</p>
                             </a>
                         </div>
                         <div className="col-2 social">
-                            <a href="#">
+                            <a href="https://www.instagram.com/">
                                 <img src="images/instagram.png" alt="Bitcoon" />
                                 <p>Instagram</p>
                             </a>

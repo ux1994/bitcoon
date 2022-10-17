@@ -5,39 +5,36 @@ function Navbar() {
         <header className="header">
         <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
-                <a className="navbar-brand" href="#"><img src="images/logo.png" alt="Bitcoon" /></a>
+                <a className="navbar-brand" href="/"><img src="images/logo.png" alt="Bitcoon" /></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
               </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Ecosystem</a>
+                            <a className="nav-link" href="/">Ecosystem</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Buy</a>
+                            <a className="nav-link" href="/">Buy</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">CoonSwap</a>
+                            <a className="nav-link" href="/">CoonSwap</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Roadmap</a>
+                            <a className="nav-link" href="/">Roadmap</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Pet Coon</a>
+                            <a className="nav-link" href="/">Pet Coon</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Community</a>
+                            <a className="nav-link" href="/">Community</a>
                         </li>
                         <li className="nav-item dropdown li-border">
-                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       EN
                     </a>
                             <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="#">hn</a></li>
-                                <li>
-                                    <a className="dropdown-item" href="#"></a>
-                                </li>
+                                <li><a className="dropdown-item" href="/">hn</a></li>
 
                             </ul>
                         </li>
@@ -56,8 +53,8 @@ function Navbar() {
                     <h1>A Decentralized Meme Token that is backed by Bitcoin</h1>
                     <p>COON - CoonSwap - Backed by wBTC - <br />Reward System - Community DAO - Pet<br /> Coon NFTS - And More! </p>
                     <div className="banner_btn btn-margin">
-                        <a href="#" className="blue-btn">How to Buy</a>
-                        <a href="#" className="banner-btn">Read CoonPaper</a>
+                        <a href="/" className="blue-btn">How to Buy</a>
+                        <a href="." className="banner-btn">Read CoonPaper</a>
 
                     </div>
                 </div>
