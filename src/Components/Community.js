@@ -31,12 +31,12 @@ function Community(){
                 <div className="col-lg-6 m-auto">
                     <div className="copy_card">
                         <div className="row align-items-center text-center">
-                            <div className="col-lg-5  p-0">
-                                <button onClick={myFunction} className="banner-btn m-0"><span><img src="images/copy.png" alt="" className="eye" /></span> Copy to Clipboard</button>
+                            <div className="col-lg-5 order-md-1 order-sm-2 order-2   p-0">
+                            <button onClick={myFunction} className="banner-btn m-0"><span><img src="images/copy.png" alt="Bitcoon" className="eye" /></span> Copy to Clipboard</button>
 
                             </div>
-                            <div className="col-lg-6 p-0">
-                                <input type="text" className="main-paragraphs myinputs m-59" value="0x3f7F0fA064ca7e7FA846025972710B4B7b4d9851" id="myInput" />
+                            <div className="col-lg-6 order-md-1 order-sm-1 order-1 p-0">
+                            <input type="text" className="main-paragraphs myinputs m-59 f-14" value="0x3f7F0fA064ca7e7FA846025972710B4B7b4d9851" id="myInput" />
                             </div>
                         </div>
                     </div>
@@ -45,6 +45,7 @@ function Community(){
         </div>
 
     </section>
+
     )
 }
 export default Community

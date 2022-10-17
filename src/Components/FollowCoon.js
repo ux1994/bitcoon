@@ -11,29 +11,34 @@ function FollowCoon(){
                         </div>
                     </div>
                     <div className="row hand_bg">
-                        <div className="col-lg-4">
+                        <div className="col-lg-4 col-md-4">
                             <h4>Phase 1</h4>
-                            <div className="card hand_card">
-                                <p>Launch Web <br /> Presale <br /> Audit
-                                </p>
+                            <div className="hand_card_bg">
+                                <div className="card hand_card">
+                                    <p>Launch Web <br /> Presale <br /> Audit
+                                    </p>
+                                </div>
                             </div>
 
                         </div>
-                        <div className="col-lg-4">
+                        <div className="col-lg-4 col-md-4">
                             <h4>Phase 2</h4>
-                            <div className="card hand_card">
-                                <p>Launch CoonSwap <br /> Staking is Live <br /> Farm is Live
-                                </p>
+                            <div className="hand_card_bg">
+                                <div className="card hand_card">
+                                    <p>Launch CoonSwap <br /> Staking is Live <br /> Farm is Live
+                                    </p>
+                                </div>
                             </div>
-
                         </div>
-                        <div className="col-lg-4">
+                        <div className="col-lg-4 col-md-4">
                             <h4>Phase 3</h4>
-                            <div className="card hand_card">
-                                <p>Launch NFT Collection <br /> DAO is Live <br /> Our First Burn
-                                </p>
-                            </div>
 
+                            <div className="hand_card_bg">
+                                <div className="card hand_card">
+                                    <p>Launch NFT Collection <br /> DAO is Live <br /> Our First Burn
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
