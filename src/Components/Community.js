@@ -19,7 +19,7 @@ function Community(){
           });
       }
     return(
-        <section className="community">
+        <section className="community" id='community'>
         <div className="container">
             <div className="row">
                 <div className="col-lg-12 text-center">

@@ -1,7 +1,7 @@
 function CoonSwap(){
     return(
         
-        <section className="coonswap">
+        <section className="coonswap" id="coonswap">
         <div className="container">
             <div className="row">
                 <div className="col-lg-11 m-auto">

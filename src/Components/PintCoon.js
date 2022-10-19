@@ -1,7 +1,7 @@
 function PintCoon(){
     return(
 
-        <section className="petcoon">
+        <section className="petcoon" id="petcoon">
         <div className="container">
             <div className="row">
                 <div className="col-lg-11 m-auto">

@@ -1,7 +1,7 @@
 function FollowCoon(){
     return(
-        <section className="follow">
-        <div className="container">
+        <section className="follow" id="roadmap">
+        <div className="container-fluid">
             <div className="row">
                 <div className="col-lg-11 m-auto">
                     <div className="row">
@@ -11,7 +11,7 @@ function FollowCoon(){
                         </div>
                     </div>
                     <div className="row hand_bg">
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-lg-4 col-4">
                             <h4>Phase 1</h4>
                             <div className="hand_card_bg">
                                 <div className="card hand_card">
@@ -21,7 +21,7 @@ function FollowCoon(){
                             </div>
 
                         </div>
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-lg-4 col-4">
                             <h4>Phase 2</h4>
                             <div className="hand_card_bg">
                                 <div className="card hand_card">
@@ -30,7 +30,7 @@ function FollowCoon(){
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-lg-4 col-4">
                             <h4>Phase 3</h4>
 
                             <div className="hand_card_bg">

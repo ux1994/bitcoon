@@ -1,7 +1,7 @@
 function Buy(){
     return(
         
-        <section className="buy">
+        <section className="buy" id="buy">
 
         <div className="container">
             <div className="row">

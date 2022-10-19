@@ -494,6 +494,8 @@ div#navbarSupportedContent {
     margin-top: 60px;
     /* background-size: cover; */
     text-align: center;
+    background-position: right;
+    background-size: contain;
 }
 
 .hand_bg h4 {
@@ -617,6 +619,11 @@ div#navbarSupportedContent {
     outline: none;
 }
 
+.hand_card:hover {
+    box-shadow: 0 70px 70px rgb(0 0 0 / 20%);
+    transform: translate(0, -5px);
+}
+
 @media only screen and (max-width: 767px) {
     .main-banner {
         padding-left: 0px;
@@ -624,6 +631,9 @@ div#navbarSupportedContent {
     }
     .certik {
         width: 120px;
+    }
+    .hand_bg {
+        background-repeat: no-repeat;
     }
     .banner-img {
         width: 318px;
@@ -871,23 +881,27 @@ div#navbarSupportedContent {
         z-index: 99999999999;
         height: 100vh;
     }
-	  .hand_bg {
-        background-image: url('../images/hand-bg-rotate.png');
-        background-position: top;
-        margin-top: 60px;
-        /* background-size: cover; */
-        text-align: center;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
     .li-border {
         border: none;
+    }
+    .hand_card p {
+        font-size: 10px;
+    }
+    .hand_card_bg {
+        width: 100%;
+    }
+    .hand_card {
+        width: 100%;
+    }
+    .hand_card:hover {
+        box-shadow: 0 70px 70px rgb(0 0 0 / 20%);
+        transform: translate(0, -5px);
     }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
     /* CSS */
-	  .li-border {
+    .li-border {
         border: none;
     }
     button.navbar-toggler {

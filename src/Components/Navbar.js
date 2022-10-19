@@ -12,22 +12,22 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link" href="/">Ecosystem</a>
+                            <a className="nav-link" href="#ecosystem">Ecosystem</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/">Buy</a>
+                            <a className="nav-link" href="#buy">Buy</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/">CoonSwap</a>
+                            <a className="nav-link" href="#coonswap">CoonSwap</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/">Roadmap</a>
+                            <a className="nav-link" href="#roadmap">Roadmap</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/">Pet Coon</a>
+                            <a className="nav-link" href="#petcoon">Pet Coon</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/">Community</a>
+                            <a className="nav-link" href="#community">Community</a>
                         </li>
                         <li className="nav-item dropdown li-border">
                             <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
