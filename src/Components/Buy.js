@@ -16,7 +16,7 @@ function Buy(){
                             <a href="/" className="blue-btn mt-20">Buy Coon</a>
                         </div>
                         <div className="col-lg-6 col-md-6 order-md-1 order-sm-1 order-1 text-center">
-                            <img src="images/cat.png" className="cat_img" alt="Bitcoon" /> </div>
+                            <img src="images/cat1.png" className="cat_img" alt="Bitcoon" /> </div>
                     </div>
                 </div>
             </div>

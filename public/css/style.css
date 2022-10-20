@@ -492,10 +492,10 @@ div#navbarSupportedContent {
     background-image: url('../images/hand-bg.png');
     background-position: top;
     margin-top: 60px;
-    /* background-size: cover; */
+    background-size: cover;
     text-align: center;
     background-position: right;
-    background-size: contain;
+    /* background-size: contain; */
 }
 
 .hand_bg h4 {
@@ -634,6 +634,9 @@ div#navbarSupportedContent {
     }
     .hand_bg {
         background-repeat: no-repeat;
+        background-size: contain;
+        background-image: url('../images/hand-bg-rotate.png');
+        background-position: center;
     }
     .banner-img {
         width: 318px;
@@ -885,7 +888,7 @@ div#navbarSupportedContent {
         border: none;
     }
     .hand_card p {
-        font-size: 10px;
+        font-size: 14px;
     }
     .hand_card_bg {
         width: 100%;

@@ -11,7 +11,7 @@ function FollowCoon(){
                         </div>
                     </div>
                     <div className="row hand_bg">
-                        <div className="col-lg-4 col-4">
+                        <div className="col-lg-4 col-7 m-auto">
                             <h4>Phase 1</h4>
                             <div className="hand_card_bg">
                                 <div className="card hand_card">
@@ -21,7 +21,7 @@ function FollowCoon(){
                             </div>
 
                         </div>
-                        <div className="col-lg-4 col-4">
+                        <div className="col-lg-4 col-7 m-auto">
                             <h4>Phase 2</h4>
                             <div className="hand_card_bg">
                                 <div className="card hand_card">
@@ -30,7 +30,7 @@ function FollowCoon(){
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-4">
+                        <div className="col-lg-4 col-7 m-auto">
                             <h4>Phase 3</h4>
 
                             <div className="hand_card_bg">
